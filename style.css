@@ -29,7 +29,8 @@
     width: 32%;
     position: relative;
     margin-bottom: 30px;
-    border-radius: 20px;
+    /* border-radius: 20px; */
+    border-radius: 50%;
     overflow: hidden;
 
 }
